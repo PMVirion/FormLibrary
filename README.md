@@ -3,7 +3,7 @@
 
 # Usage
 
-- setup default Closure Parameter.
+- Closure Parameter.
 ```php
 function (Player $player, $data): void{}
 ````
