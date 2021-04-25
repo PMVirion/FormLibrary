@@ -1,0 +1,6 @@
+name: FormLibrary
+antigen: skh6075\formlibrary
+api: 4.0.0
+version: 1.0.0
+author: AvasKr
+php: [7.4, 8.0]
